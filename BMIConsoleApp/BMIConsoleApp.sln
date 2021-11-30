@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BMIConsoleApp", "BMIConsoleApp.csproj", "{7ED1591C-3828-4354-8908-3E0FD8B8C927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ED1591C-3828-4354-8908-3E0FD8B8C927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED1591C-3828-4354-8908-3E0FD8B8C927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED1591C-3828-4354-8908-3E0FD8B8C927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED1591C-3828-4354-8908-3E0FD8B8C927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5BEBFC5-9262-425C-9BA9-B80564C73883}
+	EndGlobalSection
+EndGlobal

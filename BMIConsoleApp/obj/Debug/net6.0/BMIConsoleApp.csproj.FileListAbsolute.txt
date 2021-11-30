@@ -1,0 +1,15 @@
+d:\infodation\dotNet\BMIConsoleApp\bin\Debug\net6.0\BMIConsoleApp.exe
+d:\infodation\dotNet\BMIConsoleApp\bin\Debug\net6.0\BMIConsoleApp.deps.json
+d:\infodation\dotNet\BMIConsoleApp\bin\Debug\net6.0\BMIConsoleApp.runtimeconfig.json
+d:\infodation\dotNet\BMIConsoleApp\bin\Debug\net6.0\BMIConsoleApp.dll
+d:\infodation\dotNet\BMIConsoleApp\bin\Debug\net6.0\ref\BMIConsoleApp.dll
+d:\infodation\dotNet\BMIConsoleApp\bin\Debug\net6.0\BMIConsoleApp.pdb
+d:\infodation\dotNet\BMIConsoleApp\obj\Debug\net6.0\BMIConsoleApp.csproj.AssemblyReference.cache
+d:\infodation\dotNet\BMIConsoleApp\obj\Debug\net6.0\BMIConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+d:\infodation\dotNet\BMIConsoleApp\obj\Debug\net6.0\BMIConsoleApp.AssemblyInfoInputs.cache
+d:\infodation\dotNet\BMIConsoleApp\obj\Debug\net6.0\BMIConsoleApp.AssemblyInfo.cs
+d:\infodation\dotNet\BMIConsoleApp\obj\Debug\net6.0\BMIConsoleApp.csproj.CoreCompileInputs.cache
+d:\infodation\dotNet\BMIConsoleApp\obj\Debug\net6.0\BMIConsoleApp.dll
+d:\infodation\dotNet\BMIConsoleApp\obj\Debug\net6.0\ref\BMIConsoleApp.dll
+d:\infodation\dotNet\BMIConsoleApp\obj\Debug\net6.0\BMIConsoleApp.pdb
+d:\infodation\dotNet\BMIConsoleApp\obj\Debug\net6.0\BMIConsoleApp.genruntimeconfig.cache

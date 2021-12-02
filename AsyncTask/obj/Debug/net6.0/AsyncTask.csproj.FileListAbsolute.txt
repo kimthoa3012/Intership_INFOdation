@@ -1,0 +1,15 @@
+d:\infodation\dotNet\AsyncTask\bin\Debug\net6.0\AsyncTask.exe
+d:\infodation\dotNet\AsyncTask\bin\Debug\net6.0\AsyncTask.deps.json
+d:\infodation\dotNet\AsyncTask\bin\Debug\net6.0\AsyncTask.runtimeconfig.json
+d:\infodation\dotNet\AsyncTask\bin\Debug\net6.0\AsyncTask.dll
+d:\infodation\dotNet\AsyncTask\bin\Debug\net6.0\ref\AsyncTask.dll
+d:\infodation\dotNet\AsyncTask\bin\Debug\net6.0\AsyncTask.pdb
+d:\infodation\dotNet\AsyncTask\obj\Debug\net6.0\AsyncTask.csproj.AssemblyReference.cache
+d:\infodation\dotNet\AsyncTask\obj\Debug\net6.0\AsyncTask.GeneratedMSBuildEditorConfig.editorconfig
+d:\infodation\dotNet\AsyncTask\obj\Debug\net6.0\AsyncTask.AssemblyInfoInputs.cache
+d:\infodation\dotNet\AsyncTask\obj\Debug\net6.0\AsyncTask.AssemblyInfo.cs
+d:\infodation\dotNet\AsyncTask\obj\Debug\net6.0\AsyncTask.csproj.CoreCompileInputs.cache
+d:\infodation\dotNet\AsyncTask\obj\Debug\net6.0\AsyncTask.dll
+d:\infodation\dotNet\AsyncTask\obj\Debug\net6.0\ref\AsyncTask.dll
+d:\infodation\dotNet\AsyncTask\obj\Debug\net6.0\AsyncTask.pdb
+d:\infodation\dotNet\AsyncTask\obj\Debug\net6.0\AsyncTask.genruntimeconfig.cache

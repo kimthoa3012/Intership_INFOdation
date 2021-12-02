@@ -1,0 +1,15 @@
+d:\infodation\dotNet\class_LinQ\obj\Debug\net6.0\class_LinQ.csproj.AssemblyReference.cache
+d:\infodation\dotNet\class_LinQ\obj\Debug\net6.0\class_LinQ.GeneratedMSBuildEditorConfig.editorconfig
+d:\infodation\dotNet\class_LinQ\obj\Debug\net6.0\class_LinQ.AssemblyInfoInputs.cache
+d:\infodation\dotNet\class_LinQ\obj\Debug\net6.0\class_LinQ.AssemblyInfo.cs
+d:\infodation\dotNet\class_LinQ\obj\Debug\net6.0\class_LinQ.csproj.CoreCompileInputs.cache
+D:\infodation\dotNet\class_LinQ\bin\Debug\net6.0\class_LinQ.exe
+D:\infodation\dotNet\class_LinQ\bin\Debug\net6.0\class_LinQ.deps.json
+D:\infodation\dotNet\class_LinQ\bin\Debug\net6.0\class_LinQ.runtimeconfig.json
+D:\infodation\dotNet\class_LinQ\bin\Debug\net6.0\class_LinQ.dll
+D:\infodation\dotNet\class_LinQ\bin\Debug\net6.0\ref\class_LinQ.dll
+D:\infodation\dotNet\class_LinQ\bin\Debug\net6.0\class_LinQ.pdb
+D:\infodation\dotNet\class_LinQ\obj\Debug\net6.0\class_LinQ.dll
+D:\infodation\dotNet\class_LinQ\obj\Debug\net6.0\ref\class_LinQ.dll
+D:\infodation\dotNet\class_LinQ\obj\Debug\net6.0\class_LinQ.pdb
+D:\infodation\dotNet\class_LinQ\obj\Debug\net6.0\class_LinQ.genruntimeconfig.cache
